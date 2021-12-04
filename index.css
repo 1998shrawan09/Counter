@@ -6,19 +6,16 @@ h1{
     height: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
 body{
     text-align: center;
     background-color: #3294a8;
-  
-}
+ }
 h2{
     background-color: purple;
     width: 300px;
     margin-left: 40%;
     height: 30px;
     border-radius: 10px;
-   
 }
 button{
     background-color: #75a832;
